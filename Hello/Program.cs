@@ -1,2 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World! Git Git Git ");
+Console.WriteLine("Schweinslungenbraten");
+Console.WriteLine("Pfefferkörner");
+Console.WriteLine("Speck");
+Console.WriteLine("Sahne");
+Console.WriteLine("Kartoffeln");
+Console.WriteLine("Fisolen");
+
